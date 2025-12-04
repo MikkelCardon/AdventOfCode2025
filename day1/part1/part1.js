@@ -1,7 +1,7 @@
 import { log } from 'console'
 import fs from 'fs'
 
-const text = fs.readFileSync('./day1/input1.txt', 'utf8')
+const text = fs.readFileSync('./day1/input.txt', 'utf8')
 const lines = text.split("\n")
 
 
